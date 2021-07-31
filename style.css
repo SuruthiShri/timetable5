@@ -1,0 +1,32 @@
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-collapse: collapse;
+    color: rgb(255, 255, 255);
+  }
+  .style{
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+  }
+  .link:link, link:visited {
+    background-color: rgb(255, 255, 255);
+    color:rgb(105, 231, 116);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 15px;
+  }
+  
+  .link:hover, link:active {
+    background-color: rgb(58, 204, 114);
+    color: white;
+    border-radius: 15px;
+  }
+
+
+
+  
+     
